@@ -1,0 +1,27 @@
+.a{
+  color:#fff;
+  text-decoration:none;
+}
+
+.header{
+  padding:20px 0;
+  background-color:#222;
+}
+.box{
+  width:80%;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin:0 auto;
+}
+.h1{
+  font-size:2em;
+}
+.ul{
+  display:flex;  
+}
+.li{
+  padding:0 15px;  
+  border-left:1px solid #fff;
+}
+

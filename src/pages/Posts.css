@@ -1,0 +1,17 @@
+ul{
+  width:1000px;
+  margin:0 auto;
+  display:flex;
+  justify-content:space-around;
+  flex-wrap:wrap;
+}
+ul>li{
+  width:calc(25% - 10px);
+  margin-bottom:18px;
+  padding:10px;
+  box-sizing:border-box;
+  border: 1px solid #666;
+}
+ul>li>figure>img{
+  width:100%;
+}

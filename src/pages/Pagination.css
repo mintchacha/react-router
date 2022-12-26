@@ -1,0 +1,14 @@
+div.num{
+  border:1px solid #666;
+  padding:20px 20px 300px;
+}
+div.num>ul{
+  display:flex;
+  justify-content:center;
+}
+div.num>ul>li{
+  margin:0 20px;
+}
+div.num>ul>li>span{
+  cursor:pointer;
+}
